@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.DefaultCompany.aptosunitygame",
+               "sha256_cert_fingerprints": ["D7:B1:02:EA:83:27:9D:0F:2C:22:8F:64:FB:89:FE:65:8A:EF:8D:9A:92:A9:64:0C:AA:43:90:3B:4A:CA:24:D0"] }
+}]
